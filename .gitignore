@@ -1,0 +1,6 @@
+﻿# API keys and user settings - never commit
+data.json
+data (conflict*).json
+
+# Dependencies
+node_modules/

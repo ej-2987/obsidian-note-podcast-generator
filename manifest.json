@@ -1,0 +1,10 @@
+﻿{
+    "id":  "note-podcast-generator",
+    "name":  "Note Podcast Generator",
+    "version":  "1.0.0",
+    "minAppVersion":  "0.15.0",
+    "description":  "Generate a 1-minute English podcast audio file from your notes using AI",
+    "author":  "ej-2987",
+    "authorUrl":  "https://github.com/ej-2987/obsidian-note-podcast-generator",
+    "isDesktopOnly":  false
+}
